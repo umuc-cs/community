@@ -1,5 +1,4 @@
 # Guide to Interview Prep Materials
-----
 Welcome to the UMUC-CS Guide to Interview Prep Material. Here you will find useful links to various preparation materials and site. 
 
 If you have any additional books or links you'd like to add please see `CONTRIBUTING.md` for details on how to submite them.
@@ -24,7 +23,6 @@ Another great book. This one is a little more technical than CTCI. It also cover
 **Topics Covered: ** Primitive Types, Arrays, Strings, Linked Lists, Stacks and Queues, Binary Trees, Heaps, Searching, Hash Tables, Sorting, Binary Search Trees, Recursion, Dynamic Programming, Greedy Algorithms and Invariants, Graphs, Parallel Computing 
 
 ## Algorithm Books
----
 Need to brush up on your data structures and algorithms? Sometimes a book is just what you need.
 
 ### [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=DZSEDRD0W88XMQ32FQQ9)
