@@ -25,7 +25,7 @@ Now instead of stepping through the length of n in steps of 1, we are stepping t
 | 2          | 4  |
 | 3          | 6  |
 | 4          | 8  |
-| 5          | 20 |
+| 5          | 10 |
 
 As you can see after the 5th iteration we are taking steps of size 10. In the above example, n=10, i.e. we stop when we hit 10, we’d stop after 5 iterations, which happens to be n/2. You might want to say that the complexity is therefore O(n/2), but we must remeber that in Big-Oh analysis we always remove the constant. In this case we are removing 1/2, which gives us O(n). If our increment step was i+3, we’d have multiples of 3, and the number of times the loop would iterate through would be n/3, because division “undoes” multiplication. 
 
